@@ -15,7 +15,7 @@ Small library helper for RestSharp including rate limit, oauth1 support, helper 
         <tags>RestSharpHelper, JSON.Net, Rate Limit</tags>
         <dependencies>
             <group targetFramework=".NETFramework4.6.1">
-                <dependency id="Newtonsoft.Json" version="8.0.2" />
+                <dependency id="Newtonsoft.Json" version="13.0.1" />
                 <dependency id="RateLimiter" version="1.0.0" />
                 <dependency id="RestSharp" version="105.2.3" />
             </group>
